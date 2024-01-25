@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/copyTab"
+        android:icon="@drawable/img_copy"
+        android:iconTint="@color/black"
+        android:title="Links" />
+
+    <item
+        android:id="@+id/coursesTab"
+        android:icon="@drawable/img_courses"
+        android:title="Courses" />
+
+    <item
+        android:id="@+id/middle"
+        android:title="" />
+
+    <item
+        android:id="@+id/campaignsTab"
+        android:icon="@drawable/img_campaigns"
+        android:title="Campaigns" />
+
+    <item
+        android:id="@+id/profileTab"
+        android:icon="@drawable/img_profile"
+        android:title="Profile" />
+</menu>

@@ -52,6 +52,7 @@ class MainActivity : AppCompatActivity() {
             setUpGraphView()
         }
         setUpListner()
+        binding.viewPager.isUserInputEnabled = false;
 
     }
 
